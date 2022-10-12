@@ -1,0 +1,103 @@
+<p>1. Which of these is not a type of relation?<br />
+a) Reflexive<br />
+b) Surjective<br />
+c) Symmetric<br />
+d) Transitive<br />
+<span class="collapseomatic " id="id6336ecc31b3dc"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336ecc31b3dc" class="collapseomatic_content ">Answer: b<br />
+Explanation: Surjective is not a type of relation. It is a type of function. Reflexive, Symmetric and Transitive are type of relations.<br />
+</div>
+
+
+<p>2. An Equivalence relation is always symmetric.<br />
+a) True<br />
+b) False<br />
+<span class="collapseomatic " id="id6336ecc31b417"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336ecc31b417" class="collapseomatic_content ">Answer: a<br />
+Explanation: The given statement is true. A relation R in a set A is said to be an equivalence relation if R is reflexive, symmetric and transitive. Hence, an equivalence relation is always symmetric.<br />
+</div>
+
+<p>3. Which of the following relations is symmetric but neither reflexive nor transitive for a set A = {1, 2, 3}.<br />
+a) R = {(1, 2), (1, 3), (1, 4)}<br />
+b) R = {(1, 2), (2, 1)}<br />
+c) R = {(1, 1), (2, 2), (3, 3)}<br />
+d) R = {(1, 1), (1, 2), (2, 3)}<br />
+<span class="collapseomatic " id="id6336ecc31b428"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336ecc31b428" class="collapseomatic_content ">Answer: b<br />
+Explanation: A relation in a set A is said to be symmetric if (a<sub>1</sub>, a<sub>2</sub>)&isin;R implies that (a<sub>1</sub>, a<sub>2</sub>)&isin;R,for every a<sub>1</sub>, a<sub>2</sub>&isin;R.<br />
+Hence, for the given set A={1, 2, 3}, R={(1, 2), (2, 1)} is symmetric. It is not reflexive since every element is not related to itself and neither transitive as it does not satisfy the condition that for a given relation R in a set A if (a<sub>1</sub>, a<sub>2</sub>)&isin;R and (a<sub>2</sub>, a<sub>3</sub>)&isin;R implies that (a<sub>1</sub>, a<sub>3</sub>)&isin; R for every a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>&isin;R.<br />
+</div>
+
+<p>4. Which of the following relations is transitive but not reflexive for the set S={3, 4, 6}?<br />
+a) R = {(3, 4), (4, 6), (3, 6)}<br />
+b) R = {(1, 2), (1, 3), (1, 4)}<br />
+c) R = {(3, 3), (4, 4), (6, 6)}<br />
+d) R = {(3, 4), (4, 3)}<br />
+<span class="collapseomatic " id="id6336ecc31b436"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336ecc31b436" class="collapseomatic_content ">Answer: a<br />
+Explanation: For the above given set S = {3, 4, 6}, R = {(3, 4), (4, 6), (3, 6)} is transitive as (3,4)&isin;R and (4,6) &isin;R and (3,6) also belongs to R . It is not a reflexive relation as it does not satisfy the condition (a,a)&isin;R, for every a&isin;A for a relation R in the set A.<br />
+</div>
+
+<p>5. Let R be a relation in the set N given by R={(a,b): a+b=5, b&gt;1}. Which of the following will satisfy the given relation?<br />
+a) (2,3) &isin; R<br />
+b) (4,2) &isin; R<br />
+c) (2,1) &isin; R<br />
+d) (5,0) &isin; R<br />
+<span class="collapseomatic " id="id6336ecc31b442"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336ecc31b442" class="collapseomatic_content ">Answer: a<br />
+Explanation: (2,3) &isin; R as 2+3 = 5, 3&gt;1, thus satisfying the given condition.<br />
+(4,2) doesn&#8217;t belong to R as 4+2 &ne; 5.<br />
+(2,1) doesn&#8217;t belong to R as 2+1 &ne; 5.<br />
+(5,0) doesn&#8217;tbelong to R as 0&#8833;1<br />
+</div>
+ 
+
+        
+<p>6. Which of the following relations is reflexive but not transitive for the set T = {7, 8, 9}?<br />
+a) R = {(7, 7), (8, 8), (9, 9)}<br />
+b) R = {(7, 8), (8, 7), (8, 9)}<br />
+c) R = {0}<br />
+d) R = {(7, 8), (8, 8), (8, 9)}<br />
+<span class="collapseomatic " id="id6336ecc31b44c"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336ecc31b44c" class="collapseomatic_content ">Answer: a<br />
+Explanation: The relation R= {(7, 7), (8, 8), (9, 9)} is reflexive as every element is related to itself i.e. (a,a) &isin; R, for every a&isin;A. and it is not transitive as it does not satisfy the condition that for a relation R in a set A if (a<sub>1</sub>, a<sub>2</sub>)&isin;R and (a<sub>2</sub>, a<sub>3</sub>)&isin;R implies that (a<sub>1</sub>, a<sub>3</sub>) &isin; R for every a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub> &isin; R.<br />
+</div>
+
+
+<p>7. Let I be a set of all lines in a XY plane and R be a relation in I defined as R = {(I<sub>1</sub>, I<sub>2</sub>):I<sub>1</sub> is parallel to I<sub>2</sub>}. What is the type of given relation?<br />
+a) Reflexive relation<br />
+b) Transitive relation<br />
+c) Symmetric relation<br />
+d) Equivalence relation<br />
+<span class="collapseomatic " id="id6336ecc31b458"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336ecc31b458" class="collapseomatic_content ">Answer: d<br />
+Explanation: This is an equivalence relation. A relation R is said to be an equivalence relation when it is reflexive, transitive and symmetric.<br />
+Reflexive: We know that a line is always parallel to itself. This implies that I<sub>1</sub> is parallel to I<sub>1</sub> i.e. (I<sub>1</sub>, I<sub>2</sub>)&isin;R. Hence, it is a reflexive relation.<br />
+Symmetric: Now if a line I<sub>1</sub> || I<sub>2</sub> then the line I<sub>2</sub> || I<sub>1</sub>. Therefore, (I<sub>1</sub>, I<sub>2</sub>)&isin;R implies that (I<sub>2</sub>, I<sub>1</sub>)&isin;R. Hence, it is a symmetric relation.<br />
+Transitive: If two lines (I<sub>1</sub>, I<sub>3</sub>) are parallel to a third line (I<sub>2</sub>) then they will be parallel to each other i.e. if (I<sub>1</sub>, I<sub>2</sub>) &isin;R and (I<sub>2</sub>, I<sub>3</sub>) &isin;R implies that (I<sub>1</sub>, I<sub>3</sub>) &isin;R.<br />
+</div>
+
+
+<p>8. Which of the following relations is symmetric and transitive but not reflexive for the set I = {4, 5}?<br />
+a) R = {(4, 4), (5, 4), (5, 5)}<br />
+b) R = {(4, 4), (5, 5)}<br />
+c) R = {(4, 5), (5, 4)}<br />
+d) R = {(4, 5), (5, 4), (4, 4)}<br />
+<span class="collapseomatic " id="id6336ecc31b463"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336ecc31b463" class="collapseomatic_content ">Answer: d<br />
+Explanation: R= {(4, 5), (5, 4), (4, 4)} is symmetric since (4, 5) and (5, 4) are converse of each other thus satisfying the condition for a symmetric relation and it is transitive as (4, 5)&isin;R and (5, 4)&isin;R implies that (4, 4) &isin;R. It is not reflexive as every element in the set I is not related to itself.<br />
+</div>
+
+
+<p>9. (a,a) &isin; R, for every a &isin; A. This condition is for which of the following relations?<br />
+a) Reflexive relation<br />
+b) Symmetric relation<br />
+c) Equivalence relation<br />
+d) Transitive relation<br />
+<span class="collapseomatic " id="id6336ecc31b46d"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336ecc31b46d" class="collapseomatic_content ">Answer: a<br />
+Explanation: The above is the condition for a reflexive relation. A relation is said to be reflexive if every element in the set is related to itself.<br />
+</div>
+
+
+<p>10. (a<sub>1</sub>, a<sub>2</sub>) &isin;R implies that (a<sub>2</sub>, a<sub>1</sub>) &isin; R, for all a<sub>1</sub>, a<sub>2</sub>&isin;A. This condition is for which of the following relations?<br />
+a) Equivalence relation<br />
+b) Reflexive relation<br />
+c) Symmetric relation<br />
+d) Universal relation<br />
+<span class="collapseomatic " id="id6336ecc31b477"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336ecc31b477" class="collapseomatic_content ">Answer: c<br />
+Explanation: The above is a condition for a symmetric relation.<br />
+For example, a relation R on set A = {1,2,3,4} is given by R={(a,b):a+b=3, a&gt;0, b&gt;0}<br />
+1+2 = 3, 1&gt;0 and 2&gt;0 which implies (1,2) &isin; R.<br />
+Similarly, 2+1 = 3, 2&gt;0 and 1&gt;0 which implies (2,1)&isin;R. Therefore both (1, 2) and (2, 1) are converse of each other and is a part of the relation. Hence, they are symmetric.<br />
