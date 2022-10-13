@@ -1,0 +1,225 @@
+<p>1. What will be the output of the following Python statement?</p>
+
+<div class="sf-mobile-ads" style="padding-bottom: 20px;">
+<div id="9f8aa9b5-2c42-4296-896e-70772ed1db59" class="_ap_apex_ad">
+<script>
+    var adpushup = window.adpushup = window.adpushup || {};
+    adpushup.que = adpushup.que || [];
+    adpushup.que.push(function() {
+    adpushup.triggerAd("9f8aa9b5-2c42-4296-896e-70772ed1db59");
+    });
+</script>
+</div>
+</div>
+        
+
+<div class="hk1_style-wrap5"><div class="hk1_style-wrap4"><div class="hk1_style-wrap3"><div class="hk1_style-wrap2"><div class="hk1_style-wrap"><div class="hk1_style"><div class="cpp"><ol><li class="li1"><pre class="de1"><span class="sy1">&gt;&gt;&gt;</span><span class="st0">&quot;a&quot;</span><span class="sy2">+</span><span class="st0">&quot;bc&quot;</span></pre></li></ol></div></div></div></div></div></div></div>
+
+
+<p></p><div class="op1"> a
+</div><div class="op2">b) bc
+</div><div class="op3">c) bca
+</div><div class="op4">d) abc
+</div> id="id6336e4a8a99dc"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a99dc" class="collapseomatic_content "> Answer: d
+Explanation: + operator is concatenation operator. </div>
+ 
+<div style="margin:30px 0px;">
+<div style="display:inline-block; padding:10px; font-weight:600; border: 1px solid #a9a9a9; background-color: #f4f4f4">
+    <a href="https://www.sanfoundry.com/contests/">Sanfoundry Certification Contest</a> of the Month is Live. 100+ Subjects. Participate Now!
+</div>
+</div>
+    
+<div id="sf-ads-mi1-336-280" class="sf-mobile-ads">
+<div style="font-size:13px; text-align: center;">advertisement</div>
+<div id="e5da93a0-b61a-4789-96be-a57ebec165b0" class="_ap_apex_ad">
+<script>
+    var adpushup = window.adpushup || {};
+    adpushup.que = adpushup.que || [];
+    adpushup.que.push(function () {
+      if (adpushup.config.platform === "MOBILE") {
+        adpushup.triggerAd("e5da93a0-b61a-4789-96be-a57ebec165b0");
+      } else if ((window.outerWidth <= 768) || (window.outerWidth == 0)) {
+        adpushup.triggerAd("e5da93a0-b61a-4789-96be-a57ebec165b0");
+      }
+    });
+</script>
+</div>
+</div>
+  
+<div id="sf-ads-drbtf1" class="sf-desktop-ads">
+<div style="font-size:13px; text-align: center;">advertisement</div>
+<div id="7cee830d-5f11-4a2b-b356-93cc453475a0" class="_ap_apex_ad" max-height="300">
+<script>
+    var adpushup = window.adpushup || {};
+    adpushup.que = adpushup.que || [];
+    adpushup.que.push(function () {
+      if ( adpushup.config.platform === "DESKTOP" || adpushup.config.platform === "TABLET" ) {
+        adpushup.triggerAd("7cee830d-5f11-4a2b-b356-93cc453475a0");
+      }
+    });
+</script>
+</div>
+</div>
+        <p>2. What will be the output of the following Python statement?</p>
+
+
+<div class="hk1_style-wrap5"><div class="hk1_style-wrap4"><div class="hk1_style-wrap3"><div class="hk1_style-wrap2"><div class="hk1_style-wrap"><div class="hk1_style"><div class="cpp"><ol><li class="li1"><pre class="de1"><span class="sy1">&gt;&gt;&gt;</span><span class="st0">&quot;abcd&quot;</span><span class="br0">&#91;</span><span class="nu0">2</span><span class="sy4">:</span><span class="br0">&#93;</span></pre></li></ol></div></div></div></div></div></div></div>
+
+
+<p></p><div class="op1"> a
+</div><div class="op2">b) ab
+</div><div class="op3">c) cd
+</div><div class="op4">d) dc
+</div> id="id6336e4a8a9a00"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a00" class="collapseomatic_content "> Answer: c
+Explanation: Slice operation is performed on string. </div>
+ 
+<div style="margin:30px 0px;">
+<div style="display:inline-block; padding:10px; font-weight:600; border: 1px solid #a9a9a9; background-color: #f4f4f4">
+    Check this: <a href="https://www.sanfoundry.com/best-reference-books-programming-hot-technologies/">Information Technology Books</a> | <a href="https://www.sanfoundry.com/best-reference-books-python-programming/">Python Books</a>
+</div>
+</div>
+    
+<div class="sf-mobile-ads" style="padding-bottom: 20px;">
+<div id="adp-interscroller-container">
+<div class="adp-interscroller-outer-div">
+<div class="adp-interscroller-inner-div">
+<div id="32b92b8e-d18b-4e87-9c9d-63369f919456" class="_ap_apex_ad">
+<script>
+    var adpushup = window.adpushup = window.adpushup || {};
+    adpushup.que = adpushup.que || [];
+    adpushup.que.push(function() {
+    adpushup.triggerAd("32b92b8e-d18b-4e87-9c9d-63369f919456");
+    });
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+        <p>3. The output of executing string.ascii_letters can also be achieved by:
+</p><div class="op1"> string.ascii_lowercase_string.digits
+</div><div class="op2">b) string.ascii_lowercase+string.ascii_uppercase
+</div><div class="op3">c) string.letters
+</div><div class="op4">d) string.lowercase_string.uppercase
+</div> id="id6336e4a8a9a1b"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a1b" class="collapseomatic_content "> Answer: b
+Explanation: Execute in shell and check. </div>
+
+<div id="sf-ads-mi3-336-280" class="sf-mobile-ads">
+<div style="font-size:13px; text-align: center;">advertisement</div>
+<div id="21eae76a-c83f-42b0-aec5-01d590a53f37" class="_ap_apex_ad">
+<script>
+    var adpushup = window.adpushup || {};
+    adpushup.que = adpushup.que || [];
+    adpushup.que.push(function () {
+      if (adpushup.config.platform === "MOBILE") {
+        adpushup.triggerAd("21eae76a-c83f-42b0-aec5-01d590a53f37");
+      } else if ((window.outerWidth <= 768) || (window.outerWidth == 0)) {
+        adpushup.triggerAd("21eae76a-c83f-42b0-aec5-01d590a53f37");
+      }
+    });
+</script>
+</div>
+</div>
+  <p>4. What will be the output of the following Python code?</p>
+
+
+<div class="hk1_style-wrap5"><div class="hk1_style-wrap4"><div class="hk1_style-wrap3"><div class="hk1_style-wrap2"><div class="hk1_style-wrap"><div class="hk1_style"><div class="cpp"><ol><li class="li1"><pre class="de1"><span class="sy1">&gt;&gt;&gt;</span> str1 <span class="sy1">=</span> <span class="st0">'hello'</span></pre></li><li class="li1"><pre class="de1"><span class="sy1">&gt;&gt;&gt;</span> str2 <span class="sy1">=</span> <span class="st0">','</span></pre></li><li class="li1"><pre class="de1"><span class="sy1">&gt;&gt;&gt;</span> str3 <span class="sy1">=</span> <span class="st0">'world'</span></pre></li><li class="li1"><pre class="de1"><span class="sy1">&gt;&gt;&gt;</span> str1<span class="br0">&#91;</span><span class="sy2">-</span><span class="nu0">1</span><span class="sy4">:</span><span class="br0">&#93;</span></pre></li></ol></div></div></div></div></div></div></div>
+
+
+<p></p><div class="op1"> olleh
+</div><div class="op2">b) hello
+</div><div class="op3">c) h
+</div><div class="op4">d) o
+</div> id="id6336e4a8a9a2f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a2f" class="collapseomatic_content "> Answer: d
+Explanation: -1 corresponds to the last index.</div>
+
+<div id="sf-ads-mi4-336-280" class="sf-mobile-ads">
+<div style="font-size:13px; text-align: center;">advertisement</div>
+<div id="90f55663-effd-4105-b1e7-29d86b526544" class="_ap_apex_ad">
+<script>
+    var adpushup = window.adpushup || {};
+    adpushup.que = adpushup.que || [];
+    adpushup.que.push(function () {
+      if (adpushup.config.platform === "MOBILE") {
+        adpushup.triggerAd("90f55663-effd-4105-b1e7-29d86b526544");
+      } else if ((window.outerWidth <= 768) || (window.outerWidth == 0)) {
+        adpushup.triggerAd("90f55663-effd-4105-b1e7-29d86b526544");
+      }
+    });
+</script>
+</div>
+</div>
+  <p>5. What arithmetic operators cannot be used with strings?
+</p><div class="op1"> +
+</div><div class="op2">b) *
+</div><div class="op3">c) &#8211;
+</div><div class="op4">d) All of the mentioned
+</div> id="id6336e4a8a9a3a"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a3a" class="collapseomatic_content "> Answer: c
+Explanation: + is used to concatenate and * is used to multiply strings.</div>
+<p>6. What will be the output of the following Python code?</p>
+
+
+<div class="hk1_style-wrap5"><div class="hk1_style-wrap4"><div class="hk1_style-wrap3"><div class="hk1_style-wrap2"><div class="hk1_style-wrap"><div class="hk1_style"><div class="cpp"><ol><li class="li1"><pre class="de1"><span class="sy1">&gt;&gt;&gt;</span>print <span class="br0">&#40;</span>r<span class="st0">&quot;<span class="es1">\n</span>hello&quot;</span><span class="br0">&#41;</span></pre></li></ol></div></div></div></div></div></div></div>
+
+
+<p></p><div class="op1"> a new line and hello
+</div><div class="op2">b) \nhello
+</div><div class="op3">c) the letter r and then hello
+</div><div class="op4">d) error
+</div> id="id6336e4a8a9a45"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a45" class="collapseomatic_content "> Answer: b
+Explanation: When prefixed with the letter &#8216;r&#8217; or &#8216;R&#8217; a string literal becomes a raw string and the escape sequences such as \n are not converted. </div>
+<p>7. What will be the output of the following Python statement?</p>
+
+
+<div class="hk1_style-wrap5"><div class="hk1_style-wrap4"><div class="hk1_style-wrap3"><div class="hk1_style-wrap2"><div class="hk1_style-wrap"><div class="hk1_style"><div class="cpp"><ol><li class="li1"><pre class="de1"><span class="sy1">&gt;&gt;&gt;</span>print<span class="br0">&#40;</span><span class="st0">'new'</span> <span class="st0">'line'</span><span class="br0">&#41;</span></pre></li></ol></div></div></div></div></div></div></div>
+
+
+<p></p><div class="op1"> Error
+</div><div class="op2">b) Output equivalent to print &#8216;new\nline&#8217;
+</div><div class="op3">c) newline
+</div><div class="op4">d) new line
+</div> id="id6336e4a8a9a4f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a4f" class="collapseomatic_content "> Answer: c
+Explanation: String literal separated by whitespace are allowed. They are concatenated.</div>
+<p>8. What will be the output of the following Python statement?</p>
+
+
+<div class="hk1_style-wrap5"><div class="hk1_style-wrap4"><div class="hk1_style-wrap3"><div class="hk1_style-wrap2"><div class="hk1_style-wrap"><div class="hk1_style"><div class="cpp"><ol><li class="li1"><pre class="de1"><span class="sy1">&gt;&gt;&gt;</span> print<span class="br0">&#40;</span><span class="st0">'x\97<span class="es2">\x98</span>'</span><span class="br0">&#41;</span></pre></li></ol></div></div></div></div></div></div></div>
+
+
+<p></p><div class="op1"> Error
+</div><div class="op2">b) </p>
+<pre>   97
+   98</pre>
+<p></div><div class="op3">c) x\97
+</div><div class="op4">d) \x97\x98
+</div> id="id6336e4a8a9a59"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a59" class="collapseomatic_content "> Answer: c
+Explanation: \x is an escape sequence that means the following 2 digits are a hexadecimal number encoding a character.</div>
+<p>9. What will be the output of the following Python code?</p>
+
+
+<div class="hk1_style-wrap5"><div class="hk1_style-wrap4"><div class="hk1_style-wrap3"><div class="hk1_style-wrap2"><div class="hk1_style-wrap"><div class="hk1_style"><div class="cpp"><ol><li class="li1"><pre class="de1"><span class="sy1">&gt;&gt;&gt;</span>str1<span class="sy1">=</span><span class="st0">&quot;helloworld&quot;</span></pre></li><li class="li1"><pre class="de1"><span class="sy1">&gt;&gt;&gt;</span>str1<span class="br0">&#91;</span><span class="sy4">::</span><span class="sy2">-</span><span class="nu0">1</span><span class="br0">&#93;</span></pre></li></ol></div></div></div></div></div></div></div>
+
+
+<p></p><div class="op1"> dlrowolleh
+</div><div class="op2">b) hello
+</div><div class="op3">c) world
+</div><div class="op4">d) helloworld
+</div> id="id6336e4a8a9a65"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a65" class="collapseomatic_content "> Answer: a
+Explanation: Execute in shell to verify.</div>
+<p>10. What will be the output of the following Python code?</p>
+
+
+<div class="hk1_style-wrap5"><div class="hk1_style-wrap4"><div class="hk1_style-wrap3"><div class="hk1_style-wrap2"><div class="hk1_style-wrap"><div class="hk1_style"><div class="cpp"><pre class="de1">print<span class="br0">&#40;</span><span class="nu12">0xA</span> <span class="sy2">+</span> <span class="nu12">0xB</span> <span class="sy2">+</span> <span class="nu12">0xC</span><span class="br0">&#41;</span></pre></div></div></div></div></div></div></div>
+
+
+<p></p><div class="op1"> 0xA0xB0xC
+</div><div class="op2">b) Error
+</div><div class="op3">c) 0x22
+</div><div class="op4">d) 33
+</div> id="id6336e4a8a9a70"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a70" class="collapseomatic_content "> Answer: d
+Explanation: 0xA and 0xB and 0xC are hexadecimal integer literals representing the decimal values 10, 11 and 12 respectively. There sum is 33.</div>
+<p><strong>Sanfoundry Global Education &#038; Learning Series – Python.</strong></p>
+<p>To practice all areas of Python, <u><a href="https://www.sanfoundry.com/1000-python-questions-answers/">here is complete set of 1000+ Multiple Choice Questions and Answers</a></u>.</p>
+<p><p></p><div style="margin-bottom:20px"><div class="sf-nav-prev-bottom">&laquo; <a href="https://www.sanfoundry.com/python-technical-questions-answers/" rel="prev">Prev - Python Questions and Answers &#8211; While and For Loops &#8211; 6</a></div><div class="sf-nav-next-bottom">&raquo; <a href="https://www.sanfoundry.com/advanced-python-interview-questions-answers/" rel="next">Next - Python Questions and Answers &#8211; Strings &#8211; 2</a></div><div style="clear:both;"></div></div> <div class="sf-post-content-category">
+<strong>Next Steps:</strong>
+<br>
