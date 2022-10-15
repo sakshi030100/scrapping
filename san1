@@ -367,7 +367,7 @@ Explanation: The function len() returns the length of the number of elements in 
 </div><div class="op4"> A B C D
 </div><span class="collapseomatic " id="id6336c019aa1dc"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336c019aa1dc" class="collapseomatic_content ">Answer: d
 Explanation: The instance of the string returned by upper() is being printed.</div>
-<p>30.  What is the order of namespaces in which Python looks for an identifier?
+<p>30. What is the order of namespaces in which Python looks for an identifier?
 </p><div class="op1"> Python first searches the built-in namespace, then the global namespace and finally the local namespace
 </div><div class="op2"> Python first searches the built-in namespace, then the local namespace and finally the global namespace
 </div><div class="op3"> Python first searches the local namespace, then the global namespace and finally the built-in namespace
