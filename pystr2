@@ -54,7 +54,7 @@ Explanation: Max returns the character with the highest ascii value.</div>
 
 
 <p>6. Given a string example=&#8221;hello&#8221; what is the output of example.count(&#8216;l&#8217;)?
-<div class="op1"> a) 2
+</p><div class="op1"> a) 2
 </div><div class="op2"> b) 1
 </div><div class="op3"> c) None
 </div><div class="op4"> d) 0
