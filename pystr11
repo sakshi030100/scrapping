@@ -146,9 +146,8 @@ Explanation: The first substring is not present in the given string and hence no
 </div><div class="op4"> d) ab12ed2
 </div><span class="collapseomatic " id="id6337974a5222c"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337974a5222c" class="collapseomatic_content ">Answer: b
 Explanation: The first substring is not present in the given string and hence nothing is replaced.</div>
-<
 
-p>16. What will be the output of the following Python code snippet?
+<p>16. What will be the output of the following Python code snippet?
 
 </p><div class="op1"> a) xyyxyyxyxyxxy
 </div><div class="op2"> b) 12y12y1212x12
