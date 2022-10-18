@@ -1,0 +1,993 @@
+<p>31. What will be the output of the following Python statement?</p>
+
+
+<p></p><div class="op1"> a
+</div><div class="op2">b) bc
+</div><div class="op3">c) bca
+</div><div class="op4">d) abc
+</div> id="id6336e4a8a99dc"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a99dc" class="collapseomatic_content "> Answer: d
+Explanation: + operator is concatenation operator. </div>
+ 
+
+<p>32. What will be the output of the following Python statement?</p>
+
+
+<p></p><div class="op1"> a
+</div><div class="op2">b) ab
+</div><div class="op3">c) cd
+</div><div class="op4">d) dc
+</div> id="id6336e4a8a9a00"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a00" class="collapseomatic_content "> Answer: c
+Explanation: Slice operation is performed on string. </div>
+ 
+<p>33. The output of executing string.ascii_letters can also be achieved by:
+</p><div class="op1"> string.ascii_lowercase_string.digits
+</div><div class="op2">b) string.ascii_lowercase+string.ascii_uppercase
+</div><div class="op3">c) string.letters
+</div><div class="op4">d) string.lowercase_string.uppercase
+</div> id="id6336e4a8a9a1b"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a1b" class="collapseomatic_content "> Answer: b
+Explanation: Execute in shell and check. </div>
+
+
+<p>34. What will be the output of the following Python code?</p>
+
+
+<p></p><div class="op1"> olleh
+</div><div class="op2">b) hello
+</div><div class="op3">c) h
+</div><div class="op4">d) o
+</div> id="id6336e4a8a9a2f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a2f" class="collapseomatic_content "> Answer: d
+Explanation: -1 corresponds to the last index.</div>
+
+
+<p>35. What arithmetic operators cannot be used with strings?
+
+</p><div class="op1"> +
+</div><div class="op2">b) *
+</div><div class="op3">c) -
+</div><div class="op4">d) All of the mentioned
+</div> id="id6336e4a8a9a3a"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a3a" class="collapseomatic_content "> Answer: c
+Explanation: + is used to concatenate and * is used to multiply strings.</div>
+
+<p>36. What will be the output of the following Python code?</p>
+
+
+<p></p><div class="op1"> a new line and hello
+</div><div class="op2">b) \nhello
+</div><div class="op3">c) the letter r and then hello
+</div><div class="op4">d) error
+</div> id="id6336e4a8a9a45"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a45" class="collapseomatic_content "> Answer: b
+Explanation: When prefixed with the letter &#8216;r&#8217; or &#8216;R&#8217; a string literal becomes a raw string and the escape sequences such as \n are not converted. </div>
+
+
+<p>37. What will be the output of the following Python statement?</p>
+
+
+<p></p><div class="op1"> Error
+</div><div class="op2">b) Output equivalent to print &#8216;new\nline&#8217;
+</div><div class="op3">c) newline
+</div><div class="op4">d) new line
+</div> id="id6336e4a8a9a4f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a4f" class="collapseomatic_content "> Answer: c
+Explanation: String literal separated by whitespace are allowed. They are concatenated.</div>
+
+<p>38. What will be the output of the following Python statement?</p>
+
+<p></p><div class="op1"> a)Error
+</div><div class="op2">b) 97 98
+<p></div><div class="op3">c) x\97
+</div><div class="op4">d) \x97\x98
+</div> id="id6336e4a8a9a59"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a59" class="collapseomatic_content "> Answer: c
+Explanation: \x is an escape sequence that means the following 2 digits are a hexadecimal number encoding a character.</div>
+
+<p>39. What will be the output of the following Python code?</p>
+
+
+<p></p><div class="op1"> dlrowolleh
+</div><div class="op2">b) hello
+</div><div class="op3">c) world
+</div><div class="op4">d) helloworld
+</div> id="id6336e4a8a9a65"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a65" class="collapseomatic_content "> Answer: a
+Explanation: Execute in shell to verify.</div>
+
+<p>40. What will be the output of the following Python code?</p>
+
+<p></p><div class="op1"> 0xA0xB0xC
+</div><div class="op2">b) Error
+</div><div class="op3">c) 0x22
+</div><div class="op4">d) 33
+</div> id="id6336e4a8a9a70"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6336e4a8a9a70" class="collapseomatic_content "> Answer: d
+Explanation: 0xA and 0xB and 0xC are hexadecimal integer literals representing the decimal values 10, 11 and 12 respectively. There sum is 33.</div>
+
+
+<p>41. What will be the output of the following Python code?
+        
+</p><div class="op1"> a) None None
+</div><div class="op2"> b) None 22
+</div><div class="op3"> c) 22 None
+</div><div class="op4"> d) Error is generated
+</div><span class="collapseomatic " id="id63379744b8fb6"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744b8fb6" class="collapseomatic_content "> Answer: d</div>
+Explanation: self.o1 was never created. </div>
+ 
+
+<p>42. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 224
+</div><div class="op2"> b) Error
+</div><div class="op3"> c) 12
+</div><div class="op4"> d) None
+</div><span class="collapseomatic " id="id63379744b8fd5"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744b8fd5" class="collapseomatic_content "> Answer: c</div>
+Explanation: Id in this case will be the attribute of the class. </div>
+
+
+<p>43. What will be the output of the following Python code?
+
+</p><div class="op1"> a) wo
+</div><div class="op2"> b) world
+</div><div class="op3"> c) sn
+</div><div class="op4"> d) rl
+</div><span class="collapseomatic " id="id63379744b8fe4"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744b8fe4" class="collapseomatic_content "> Answer: a</div>
+Explanation: Execute in the shell and verify. </div>
+
+
+<p>44. What will be the output of the following Python code?</p>
+
+</p><div class="op1"> a) snow
+</div><div class="op2"> b) snow world
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) snos world
+</div><span class="collapseomatic " id="id63379744b8ff0"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744b8ff0" class="collapseomatic_content "> Answer: c</div>
+Explanation: Strings cannot be modified.</div>
+
+
+<p>45. What will be the output of the following Python code?</p>
+
+</p><div class="op1"> a) error
+</div><div class="op2"> b) u
+</div><div class="op3"> c) t
+</div><div class="op4"> d) y
+</div><span class="collapseomatic " id="id63379744b8ffb"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744b8ffb" class="collapseomatic_content "> Answer: d</div>
+Explanation: Max returns the character with the highest ascii value.</div>
+
+
+<p>46. Given a string example=&#8221;hello&#8221; what is the output of example.count(&#8216;l&#8217;)?
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 1
+</div><div class="op3"> c) None
+</div><div class="op4"> d) 0
+</div><span class="collapseomatic " id="id63379744b9005"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744b9005" class="collapseomatic_content "> Answer: a</div>
+Explanation: l occurs twice in hello. </div>
+
+
+<p>47. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Error
+</div><div class="op2"> b) -1
+</div><div class="op3"> c) 1
+</div><div class="op4"> d) 0
+</div><span class="collapseomatic " id="id63379744b900f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744b900f" class="collapseomatic_content "> Answer: c</div>
+Explanation: Returns lowest index.</div>
+
+
+<p>48. What will be the output of the following Python code?</p>
+
+</p><div class="op1"> a) -1
+</div><div class="op2"> b) 4
+</div><div class="op3"> c) 3
+</div><div class="op4"> d) 1
+</div><span class="collapseomatic " id="id63379744b9019"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744b9019" class="collapseomatic_content "> Answer: b</div>
+Explanation: Returns highest index.</div>
+
+
+<p>49. What will be the output of the following Python code?
+
+</p><div class="op1"> a) dlrowolleh
+</div><div class="op2"> b) True
+</div><div class="op3"> c) -1
+</div><div class="op4"> d) None
+</div><span class="collapseomatic " id="id63379744b9022"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744b9022" class="collapseomatic_content "> Answer: b</div>
+Explanation: Starts with checks if the given string starts with the parameter that is passed.</div>
+
+
+<p>50. To concatenate two strings to a third what statements are applicable?</div>
+</p><div class="op1"> a) s3 = s1 . s2
+</div><div class="op2"> b) s3 = s1.add(s2)
+</div><div class="op3"> c) s3 = s1.__add__(s2)
+</div><div class="op4"> d) s3 = s1 * s2
+</div><span class="collapseomatic " id="id63379744b902c"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744b902c" class="collapseomatic_content "> Answer: c</div>
+Explanation: __add__ is another method that can be used for concatenation.</div>
+
+
+<p>51. What will be the output of the following Python statement?
+
+</p><div class="op1"> a) A
+</div><div class="op2"> b) B
+</div><div class="op3"> c) a
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337a999f1d58"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1d58" class="collapseomatic_content "> Answer: a
+Explanation: Execute in shell to verify. </div>
+
+
+<p>52. What will be the output of the following Python statement?
+
+</p><div class="op1"> a) a
+</div><div class="op2"> b) b
+</div><div class="op3"> c) c
+</div><div class="op4"> d) A
+</div><span class="collapseomatic " id="id6337a999f1d84"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1d84" class="collapseomatic_content "> Answer: c
+Explanation: Execute in the shell to verify. </div>
+ 
+
+<p>53. Which of the following statement prints hello\example\test.txt?
+</p><div class="op1"> a) print(“hello\example\test.txt”)
+</div><div class="op2"> b) print(“hello\\example\\test.txt”)
+</div><div class="op3"> c) printprint(“hello\”example\”test.txt”)
+</div><div class="op4"> d) print(“hello”\example”\test.txt”)
+</div><span class="collapseomatic " id="id6337a999f1d94"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1d94" class="collapseomatic_content "> Answer: b
+Explanation: \is used to indicate that the next \ is not an escape sequence. </div>
+
+
+<p>54.  Suppose s is “\t\tWorld\n”, what is s.strip()?
+</p><div class="op1"> a) \t\tWorld\n
+</div><div class="op2"> b) \t\tWorld\n
+</div><div class="op3"> c) \t\tWORLD\n
+</div><div class="op4"> d) World
+</div><span class="collapseomatic " id="id6337a999f1da1"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1da1" class="collapseomatic_content "> Answer: d
+Explanation: Execute help(string.strip) to find details.</div>
+
+
+<p>55. The format function, when applied on a string returns ___________
+</p><div class="op1"> a) Error
+</div><div class="op2"> b) int
+</div><div class="op3"> c) bool
+</div><div class="op4"> d) str
+</div><span class="collapseomatic " id="id6337a999f1dac"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1dac" class="collapseomatic_content "> Answer: d
+Explanation: Format function returns a string.</div>
+
+
+
+<p>56.What will be the output of the “hello” +1+2+3?
+</p><div class="op1"> a) hello123
+</div><div class="op2"> b) hello
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) hello6
+</div><span class="collapseomatic " id="id6337a999f1db6"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1db6" class="collapseomatic_content "> Answer: c
+Explanation: Cannot concatenate str and int objects. </div>
+
+
+
+<p>57. What will be the output of the following Python code?
+
+</p><div class="op1"> a) DCBA
+</div><div class="op2"> b) A, B, C, D
+</div><div class="op3"> c) D C B A
+</div><div class="op4"> d) D, C, B, A will be displayed on four lines
+</div><span class="collapseomatic " id="id6337a999f1dc0"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1dc0" class="collapseomatic_content "> Answer: c
+Explanation: Execute in the shell.</div>
+
+
+<p>58. What will be the output of the following Python statement?(python 3.xx)
+
+</p><div class="op1"> a) Welcome# 111#924.66
+</div><div class="op2"> b) Welcome#111#924.66
+</div><div class="op3"> c) Welcome#111#.66
+</div><div class="op4"> d) Welcome # 111#924.66
+</div><span class="collapseomatic " id="id6337a999f1dcb"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1dcb" class="collapseomatic_content "> Answer: d
+Explanation: Execute in the shell to verify.</div>
+
+
+
+<p>59.  What will be displayed by print(ord(‘b’) – ord(‘a’))?
+</p><div class="op1"> a) 0
+</div><div class="op2"> b) 1
+</div><div class="op3"> c) -1
+</div><div class="op4"> d) 2
+</div><span class="collapseomatic " id="id6337a999f1dd6"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1dd6" class="collapseomatic_content "> Answer: b
+Explanation: ASCII value of b is one more than a. Hence the output of this code is 98-97, which is equal to 1.</div>
+
+
+
+<p>60. Say s=&#8221;hello&#8221; what will be the return value of type(s)?
+</p><div class="op1"> a) int
+</div><div class="op2"> b) bool
+</div><div class="op3"> c) str
+</div><div class="op4"> d) String
+</div><span class="collapseomatic " id="id6337a999f1de0"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1de0" class="collapseomatic_content "> Answer: c
+Explanation: str is used to represent strings in python.</div>
+
+
+
+
+
+
+<p>61.  What is “Hello”.replace(“l”, “e”)?
+
+</p><div class="op1"> a) Heeeo
+</div><div class="op2"> b) Heelo
+</div><div class="op3"> c) Heleo
+</div><div class="op4"> d) None
+</div><span class="collapseomatic " id="id63379744acd28"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd28" class="collapseomatic_content "> Answer: a
+Explanation: Execute in shell to verify. </div>
+
+<p>62. To retrieve the character at index 3 from string s=”Hello” what command do we execute (multiple answers allowed).
+
+</p><div class="op1"> a) s[] 
+</div><div class="op2"> b) s.getitem(3)
+</div><div class="op3"> c) s.__getitem__(3)
+</div><div class="op4"> d) s.getItem(3)
+</div><span class="collapseomatic " id="id63379744acd47"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd47" class="collapseomatic_content "> Answer:  c
+Explanation: __getitem(..) can be used to get character at index specified as parameter. </div>
+
+
+<p>63. To return the length of string s what command do we execute?
+
+</p><div class="op1"> a) s.__len__()
+</div><div class="op2"> b) len(s)
+</div><div class="op3"> c) size(s)
+</div><div class="op4"> d) s.size()
+</div><span class="collapseomatic " id="id63379744acd56"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd56" class="collapseomatic_content "> Answer: a
+Explanation: Execute in shell to verify. </div>
+ 
+
+<p>64. If a class defines the __str__(self) method, for an object obj for the class, you can use which command to invoke the __str__ method.
+
+</p><div class="op1"> a) obj.__str__()
+</div><div class="op2"> b) str(obj)
+</div><div class="op3"> c) print obj
+</div><div class="op4"> d) all of the mentioned
+</div><span class="collapseomatic " id="id63379744acd73"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd73" class="collapseomatic_content "> Answer: d
+Explanation: Execute in shell to verify.</div>
+
+
+<p>65. To check whether string s1 contains another string s2, use ________
+
+</p><div class="op1"> a) s1.__contains__(s2)
+</div><div class="op2"> b) s2 in s1
+</div><div class="op3"> c) s1.contains(s2)
+</div><div class="op4"> d) si.in(s2)
+</div><span class="collapseomatic " id="id63379744acd80"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd80" class="collapseomatic_content "> Answer: a
+Explanation: s2 in s1 works in the same way as calling the special function __contains__ .</div>
+
+
+<p>66. Suppose i is 5 and j is 4, i + j is same as ________
+
+</p><div class="op1"> a) i.__add(j)
+</div><div class="op2"> b) i.__add__(j)
+</div><div class="op3"> c) i.__Add(j)
+</div><div class="op4"> d) i.__ADD(j)
+</div><span class="collapseomatic " id="id63379744acd8b"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd8b" class="collapseomatic_content "> Answer: b
+Explanation: Execute in shell to verify. </div>
+
+
+<p>67. What will be the output of the following Python code?
+
+</p><div class="op1"> a) True False
+</div><div class="op2"> b) True True
+</div><div class="op3"> c) False True
+</div><div class="op4"> d) False False
+</div><span class="collapseomatic " id="id63379744acd95"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd95" class="collapseomatic_content "> Answer: c
+Explanation: Execute in the shell objects cannot have same id, however in the case of strings its different.</div>
+
+
+<p>68. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Peter Pan
+</div><div class="op2"> b) John Pan
+</div><div class="op3"> c) Peter Smith
+</div><div class="op4"> d) John Smith
+</div><span class="collapseomatic " id="id63379744acd9f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd9f" class="collapseomatic_content "> Answer: b
+Explanation: Execute in the shell to verify.</div>
+
+
+<p>69. What function do you use to read a string?
+
+</p><div class="op1"> a) input(“Enter a string”)
+</div><div class="op2"> b) eval(input(“Enter a string”))
+</div><div class="op3"> c) enter(“Enter a string”)
+</div><div class="op4"> d) eval(enter(“Enter a string”))
+</div><span class="collapseomatic " id="id63379744acda9"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acda9" class="collapseomatic_content "> Answer: a
+Explanation: Execute in shell to verify.</div>
+
+
+<p>70. Suppose x is 345.3546, what is format(x, “10.3f”) (_ indicates space).
+
+</p><div class="op1"> a) __345.355
+</div><div class="op2"> b) ___345.355
+</div><div class="op3"> c) ____345.355
+</div><div class="op4"> d) _____345.354
+</div><span class="collapseomatic " id="id63379744acdb3"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acdb3" class="collapseomatic_content "> Answer: b
+Explanation: Execute in the shell to verify.</div>
+
+
+
+<p>71. What will be the output of the following Python code?
+
+</p><div class="op1"> a) abc def
+</div><div class="op2"> b) ABC DEF
+</div><div class="op3"> c) Abc def
+</div><div class="op4"> d) Abc Def
+</div><span class="collapseomatic " id="id63371087e2f6b"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2f6b" class="collapseomatic_content ">Answer: c
+Explanation: The first letter of the string is converted to uppercase and the others are converted to lowercase.</div>
+ 
+
+<p>72. What will be the output of the following Python code?
+
+</p><div class="op1"> a) abc. def
+</div><div class="op2"> b) ABC. DEF
+</div><div class="op3"> c) Abc. def
+</div><div class="op4"> d) Abc. Def
+</div><span class="collapseomatic " id="id63371087e2f8a"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2f8a" class="collapseomatic_content ">Answer: c
+Explanation: The first letter of the string is converted to uppercase and the others are converted to lowercase.</div>
+ 
+
+<p>73. What will be the output of the following Python code?
+
+</p><div class="op1"> a) cd
+</div><div class="op2"> b) abcdef
+</div><div class="op3"> c) error
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id63371087e2f9a"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2f9a" class="collapseomatic_content ">Answer: c
+Explanation: The function center() takes at least one parameter.</div>
+
+
+<p>74. What will be the output of the following Python code?
+
+</p><div class="op1"> a) cd
+</div><div class="op2"> b) abcdef
+</div><div class="op3"> c) error
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id63371087e2fa7"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fa7" class="collapseomatic_content ">Answer: b
+Explanation: The entire string is printed when the argument passed to center() is less than the length of the string.</div>
+
+<p>75. What will be the output of the following Python code?
+
+</p><div class="op1"> a) * abcdef  *
+</div><div class="op2"> b) *  abcdef *
+</div><div class="op3"> c) *abcdef *
+</div><div class="op4"> d) * abcdef*
+</div><span class="collapseomatic " id="id63371087e2fb2"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fb2" class="collapseomatic_content ">Answer: b
+Explanation: Padding is done towards the left-hand-side first when the final string is of odd length. Extra spaces are present since we haven&#8217;t overridden the value of sep.</div>
+
+
+<p>76. What will be the output of the following Python code?
+
+</p><div class="op1"> a) * abcdef  *
+</div><div class="op2"> b) *  abcdef *
+</div><div class="op3"> c) *abcdef *
+</div><div class="op4"> d) * abcdef*
+</div><span class="collapseomatic " id="id63371087e2fbc"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fbc" class="collapseomatic_content ">Answer: d
+Explanation: Padding is done towards the left-hand-side first when the final string is of odd length.</div>
+
+<p>77. What will be the output of the following Python code?
+
+</p><div class="op1"> a) * abcde  *
+</div><div class="op2"> b) *  abcde *
+</div><div class="op3"> c) *abcde *
+</div><div class="op4"> d) * abcde*
+</div><span class="collapseomatic " id="id63371087e2fc6"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fc6" class="collapseomatic_content ">Answer: c
+Explanation: Padding is done towards the right-hand-side first when the final string is of even length.</div>
+
+<p>78. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 1abcdef
+</div><div class="op2"> b) abcdef1
+</div><div class="op3"> c)  abcdef
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087e2fcf"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fcf" class="collapseomatic_content ">Answer: d
+Explanation: TypeError, the fill character must be a character, not an int.</div>
+
+
+<p>79. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 1abcdef
+</div><div class="op2"> b) abcdef1
+</div><div class="op3"> c)  abcdef
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087e2fd9"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fd9" class="collapseomatic_content ">Answer: a
+Explanation: The character &#8216;1&#8217; is used for padding instead of a space.</div>
+
+
+<p>80. What will be the output of the following Python code?
+</p><div class="op1"> a) 12abcdef12
+</div><div class="op2"> b) abcdef1212
+</div><div class="op3"> c) 1212abcdef
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087e2fe3"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fe3" class="collapseomatic_content ">Answer: d
+Explanation: The fill character must be exactly one character long.</div>
+
+
+
+
+
+
+<p>81. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) error
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id63371087c4f71"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4f71" class="collapseomatic_content ">Answer: a
+Explanation: Counts the number of times the substring &#8216;yy&#8217; is present in the given string.</div>
+ 
+<p>82. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) 1
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id63371087c4f94"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4f94" class="collapseomatic_content ">Answer: a
+Explanation: Counts the number of times the substring &#8216;yy&#8217; is present in the given string, starting from position 1.</div>
+
+
+
+<p>83. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) 1
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id63371087c4fa5"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fa5" class="collapseomatic_content ">Answer: c
+Explanation: Counts the number of times the substring &#8216;yy&#8217; is present in the given string, starting from position 2.</div>
+
+<p>84. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) 1
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087c4fb3"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fb3" class="collapseomatic_content ">Answer: a
+Explanation: An error will not occur if the end value is greater than the length of the string itself.</div>
+
+
+<p>85. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) 1
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087c4fbe"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fbe" class="collapseomatic_content ">Answer: b
+Explanation: Counts the number of times the substring &#8216;xyy&#8217; is present in the given string, starting from position 2 and ending at position 11.</div>
+
+<p>86. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) 1
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087c4fca"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fca" class="collapseomatic_content ">Answer: b
+Explanation: Counts the number of times the substring &#8216;xyy&#8217; is present in the given string, starting from position 2 and ending at position 11.</div>
+
+<p>87. What will be the output of the following Python code?
+
+</p><div class="op1"> a) abc
+</div><div class="op2"> b) ‘abc’
+</div><div class="op3"> c) b’abc’
+</div><div class="op4"> d) h’abc’ 
+</div><span class="collapseomatic " id="id63371087c4fd4"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fd4" class="collapseomatic_content ">Answer: c
+Explanation: A bytes object is returned by encode.</div>
+
+
+<p>88. What is the default value of encoding in encode()?
+</p><div class="op1"> a) ascii
+</div><div class="op2"> b) qwerty
+</div><div class="op3"> c) utf-8
+</div><div class="op4"> d) utf-16
+</div><span class="collapseomatic " id="id63371087c4fdf"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fdf" class="collapseomatic_content ">Answer: c
+Explanation: The default value of encoding is utf-8.</div>
+
+
+<p>89. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 1
+</div><div class="op2"> b) True
+</div><div class="op3"> c) 3
+</div><div class="op4"> d) 2
+</div><span class="collapseomatic " id="id63371087c4fea"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fea" class="collapseomatic_content ">Answer: b
+Explanation: The function returns True if the given string ends with the specified substring.</div>
+
+
+<p>90. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 0
+</div><div class="op2"> b) 1
+</div><div class="op3"> c) True
+</div><div class="op4"> d) False
+</div><span class="collapseomatic " id="id63371087c4ff5"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4ff5" class="collapseomatic_content ">Answer: d
+Explanation: The function returns False if the given string does not end with the specified substring.</div>
+
+
+
+
+
+
+<p>91. What will be the output of the following Python code?
+
+</p><div class="op1"> a)ab  cd  ef
+</div><div class="op2"> b)abcdef
+</div><div class="op3"> c)ab\tcd\tef
+</div><div class="op4"> d)ab cd ef
+</div><span class="collapseomatic " id="id6337108c7a6e0"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a6e0" class="collapseomatic_content ">Answer: a
+Explanation: Each \t is converted to 8 blank spaces by default.</div>
+
+
+<p>92. What will be the output of the following Python code?
+
+</p><div class="op1"> a)ab   cd   ef
+</div><div class="op2"> b)abcdef
+</div><div class="op3"> c)ab\tcd\tef
+</div><div class="op4"> d)ab cd ef
+</div><span class="collapseomatic " id="id6337108c7a719"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a719" class="collapseomatic_content ">Answer: d
+Explanation: Each \t is converted to 4 blank spaces.</div>
+ 
+
+<p>93. What will be the output of the following Python code?
+
+
+</p><div class="op1"> a)ab+cd+ef
+</div><div class="op2"> b)ab++++++++cd++++++++ef
+</div><div class="op3"> c)ab cd ef
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id6337108c7a72a"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a72a" class="collapseomatic_content ">Answer: d
+Explanation: TypeError, an integer should be passed as an argument.</div>
+
+
+
+<p>94. What will be the output of the following Python code?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108c7a737"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a737" class="collapseomatic_content ">Answer: b
+Explanation: The function find() returns the position of the sunstring in the given string whereas the in keyword returns a value of Boolean type.</div>
+
+<p>95. What will be the output of the following Python code?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) 2
+</div><div class="op3"> c) 3
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108c7a743"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a743" class="collapseomatic_content ">Answer: b
+Explanation: The first position in the given string at which the substring can be found is returned.</div>
+
+
+<p>96. What will be the output of the following Python code?
+</p><div class="op1"> a) 4
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) True
+</div><span class="collapseomatic " id="id6337108c7a74e"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a74e" class="collapseomatic_content ">Answer: b
+Explanation: The first position in the given string at which the substring can be found is returned.</div>
+
+
+<p>97. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello {0} and {1} foo bin
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) Hello 0 and 1
+</div><span class="collapseomatic " id="id6337108c7a758"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a758" class="collapseomatic_content ">Answer: a
+Explanation: The numbers 0 and 1 represent the position at which the strings are present.</div>
+
+
+<p>98. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello bin and foo
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108c7a762"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a762" class="collapseomatic_content ">Answer: a
+Explanation: The numbers 0 and 1 represent the position at which the strings are present.</div>
+
+
+<p>99. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello {} and {}
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) Hello and
+</div><span class="collapseomatic " id="id6337108c7a76d"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a76d" class="collapseomatic_content ">Answer: a
+Explanation: It is the same as Hello {0} and {1}.</div>
+
+<p>100. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello {name1} and {name2}
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) Hello and
+</div><span class="collapseomatic " id="id6337108c7a778"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a778" class="collapseomatic_content ">Answer: c
+Explanation: The arguments passed to the function format aren&#8217;t keyword arguments.</div>
+
+
+
+<p>101. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello {name1} and {name2}
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) Hello and
+</div><span class="collapseomatic " id="id6337108cdd081"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd081" class="collapseomatic_content ">Answer: a
+Explanation: The arguments are accessed by their names.</div>
+ 
+
+<p>102. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and foo
+</div><div class="op2"> b) Hello ‘foo’ and foo
+</div><div class="op3"> c) Hello foo and ‘bin’
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd09d"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd09d" class="collapseomatic_content ">Answer: b
+Explanation: !r causes the characters &#8216; or &#8221; to be printed as well.</div>
+ 
+
+<p>103. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello (‘foo’, ‘bin’) and (‘foo’, ‘bin’)
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108cdd0ad"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0ad" class="collapseomatic_content ">Answer: c
+Explanation: IndexError, the tuple index is out of range.</div>
+
+
+<p>104. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello (‘foo’, ‘bin’) and (‘foo’, ‘bin’)
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108cdd0ba"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0ba" class="collapseomatic_content ">Answer: a
+Explanation: The elements of the tuple are accessed by their indices.</div>
+
+
+<p>105. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) The sum of 2 and 10 is 12
+</div><div class="op2"> b) Error
+</div><div class="op3"> c) The sum of 0 and 1 is 2
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108cdd0c5"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0c5" class="collapseomatic_content ">Answer: a
+Explanation: The arguments passed to the function format can be integers also.</div>
+
+
+<p>106. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) The sum of 2 and 10 is 12
+</div><div class="op2"> b) The sum of 10 and a is 14
+</div><div class="op3"> c) The sum of 10 and a is c
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd0d0"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0d0" class="collapseomatic_content ">Answer: b
+Explanation: 2 is converted to binary, 10 to hexadecimal and 12 to octal.</div>
+
+
+<p>107. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) 1,112,223,334
+</div><div class="op2"> b) 111,222,333,4
+</div><div class="op3"> c) 1112223334
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd0da"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0da" class="collapseomatic_content ">Answer: a
+Explanation: A comma is added after every third digit from the right.</div>
+
+
+<p>108. What will be the output of the following Python code snippet?</p>
+
+</p><div class="op1"> a) 1,112,223,334
+</div><div class="op2"> b) 111,222,333,4
+</div><div class="op3"> c) 1112223334
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd0e4"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0e4" class="collapseomatic_content ">Answer: d
+Explanation: An integer is expected.</div>
+
+<p>109. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) 1,112,223,334
+</div><div class="op2"> b) 111,222,333,4
+</div><div class="op3"> c) 1112223334
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd0ee"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0ee" class="collapseomatic_content ">Answer: d
+Explanation: $ is an invalid format code.</div>
+
+<p>110. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) 1,112,223,334
+</div><div class="op2"> b) 111,222,333,4
+</div><div class="op3"> c) 1112223334
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd0f8"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0f8" class="collapseomatic_content ">Answer: c
+Explanation: The number is printed as it is.</div>
+
+
+
+
+<p>111. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 0.333333
+</div><div class="op2"> b) 0.33
+</div><div class="op3"> c) 0.333333:.2
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id633710910ee05"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710910ee05" class="collapseomatic_content ">Answer: b
+Explanation: .2 specifies the precision.</div>
+ 
+
+<p>112. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 0.33
+</div><div class="op2"> b) 0.33%
+</div><div class="op3"> c) 33.33%
+</div><div class="op4"> d) 33%
+</div><span class="collapseomatic " id="id633710910ee30"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710910ee30" class="collapseomatic_content ">Answer: c
+Explanation: The symbol % is used to represent the result of an expression as a percentage.</div>
+
+<p>113. What will be the output of the following Python code?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id633710910ee3f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710910ee3f" class="collapseomatic_content ">Answer: a
+Explanation: The string has only letters and digits.</div>
+
+<p>114. What will be the output of the following Python code?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id633710910ee4b"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710910ee4b" class="collapseomatic_content ">Answer: b
+Explanation: The character , is not a letter or a digit.</div>
+
+
+<p>115. What will be the output of the following Python code?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id633710910ee56"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710910ee56" class="collapseomatic_content ">Answer: a
+Explanation: The string has only letters.</div>
+
+<p>116. What will be the output of the following Python code?
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id633710910ee5f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710910ee5f" class="collapseomatic_content ">Answer: b
+Explanation: Space is not a letter.</div>
+
+<p>117. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id633710910ee69"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710910ee69" class="collapseomatic_content ">Answer: b
+Explanation: Hexadecimal digits aren&#8217;t considered as digits (a-f).</div>
+
+<p>118. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id633710910ee72"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710910ee72" class="collapseomatic_content ">Answer: b
+Explanation: If there are no characters then False is returned.</div>
+
+<p>119.What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id633710910ee7c"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710910ee7c" class="collapseomatic_content ">Answer: a
+Explanation: It is a valid identifier.</div>
+
+<p>120. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id633710910ee85"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710910ee85" class="collapseomatic_content ">Answer: a
+Explanation: It is a valid identifier.</div>
+
+
+
+
+
+
+
+
+
+
+<p>121. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1dc4"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1dc4" class="collapseomatic_content ">Answer: a
+Explanation: Even keywords are considered as valid identifiers.</div>
+ 
+
+<p>122. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1de9"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1de9" class="collapseomatic_content ">Answer: a
+Explanation: There are no uppercase letters.</div>
+ 
+
+<p>123. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1df9"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1df9" class="collapseomatic_content ">Answer: a
+Explanation: There are no uppercase letters.</div>
+
+<p>124. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e11"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e11" class="collapseomatic_content ">Answer: a
+Explanation: All the character are numeric.</div>
+
+<p>125. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e1b"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e1b" class="collapseomatic_content ">Answer: b
+Explanation: The character . is not a numeric character.</div>
+
+
+<p>126. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div></div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e25"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e25" class="collapseomatic_content ">Answer: a
+Explanation: All those characters are printable.</div>
+
+
+<p>127. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e2f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e2f" class="collapseomatic_content ">Answer: b
+Explanation: None.</div>
+
+<p>128. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e38"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e38" class="collapseomatic_content ">Answer: a
+Explanation: Tab Spaces are considered as spaces.</div>
+
+<p>129. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e41"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e41" class="collapseomatic_content ">Answer: b
+Explanation: The letter W is uppercased.</div>
+
+<p>130. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e57"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e57" class="collapseomatic_content ">Answer: a
+Explanation: It is in title form.</div>
