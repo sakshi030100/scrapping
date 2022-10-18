@@ -284,6 +284,7 @@ Explanation: The function translate expects a dictionary of integers. Use maketr
 </div><span class="collapseomatic " id="id633710911c284"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710911c284" class="collapseomatic_content ">Answer: a
 Explanation: The string is padded with zeros on the left hand side. It is useful for formatting numbers.</div>
 
+
 <p>30. What will be the output of the following Python code snippet?
 
 </p><div class="op1"> a) 00+99
