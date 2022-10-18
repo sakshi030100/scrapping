@@ -1,9 +1,9 @@
 <p>1. What will be the output of the following Python statement?
 
 </p><div class="op1"> a) A
-<div class="op2"> b) B
-<div class="op3"> c) a
-<div class="op4"> d) Error
+</div><div class="op2"> b) B
+</div><div class="op3"> c) a
+</div><div class="op4"> d) Error
 </div><span class="collapseomatic " id="id6337a999f1d58"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1d58" class="collapseomatic_content "> Answer: a
 Explanation: Execute in shell to verify. </div>
 
@@ -12,9 +12,9 @@ Explanation: Execute in shell to verify. </div>
 <p>2. What will be the output of the following Python statement?
 
 </p><div class="op1"> a) a
-<div class="op2"> b) b
-<div class="op3"> c) c
-<div class="op4"> d) A
+</div><div class="op2"> b) b
+</div><div class="op3"> c) c
+</div><div class="op4"> d) A
 </div><span class="collapseomatic " id="id6337a999f1d84"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1d84" class="collapseomatic_content "> Answer: c
 Explanation: Execute in the shell to verify. </div>
  
@@ -22,9 +22,9 @@ Explanation: Execute in the shell to verify. </div>
 
 <p>3. Which of the following statement prints hello\example\test.txt?
 </p><div class="op1"> a) print(“hello\example\test.txt”)
-<div class="op2"> b) print(“hello\\example\\test.txt”)
-<div class="op3"> c) printprint(“hello\”example\”test.txt”)
-<div class="op4"> d) print(“hello”\example”\test.txt”)
+</div><div class="op2"> b) print(“hello\\example\\test.txt”)
+</div><div class="op3"> c) printprint(“hello\”example\”test.txt”)
+</div><div class="op4"> d) print(“hello”\example”\test.txt”)
 </div><span class="collapseomatic " id="id6337a999f1d94"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1d94" class="collapseomatic_content "> Answer: b
 Explanation: \is used to indicate that the next \ is not an escape sequence. </div>
 
@@ -32,9 +32,9 @@ Explanation: \is used to indicate that the next \ is not an escape sequence. </d
 
 <p>4.  Suppose s is “\t\tWorld\n”, what is s.strip()?
 </p><div class="op1"> a) \t\tWorld\n
-<div class="op2"> b) \t\tWorld\n
-<div class="op3"> c) \t\tWORLD\n
-<div class="op4"> d) World
+</div><div class="op2"> b) \t\tWorld\n
+</div><div class="op3"> c) \t\tWORLD\n
+</div><div class="op4"> d) World
 </div><span class="collapseomatic " id="id6337a999f1da1"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1da1" class="collapseomatic_content "> Answer: d
 Explanation: Execute help(string.strip) to find details.</div>
 
@@ -42,9 +42,9 @@ Explanation: Execute help(string.strip) to find details.</div>
 
 <p>5. The format function, when applied on a string returns ___________
 </p><div class="op1"> a) Error
-<div class="op2"> b) int
-<div class="op3"> c) bool
-<div class="op4"> d) str
+</div><div class="op2"> b) int
+</div><div class="op3"> c) bool
+</div><div class="op4"> d) str
 </div><span class="collapseomatic " id="id6337a999f1dac"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1dac" class="collapseomatic_content "> Answer: d
 Explanation: Format function returns a string.</div>
 
@@ -52,9 +52,9 @@ Explanation: Format function returns a string.</div>
 
 <p>6.What will be the output of the “hello” +1+2+3?
 </p><div class="op1"> a) hello123
-<div class="op2"> b) hello
-<div class="op3"> c) Error
-<div class="op4"> d) hello6
+</div><div class="op2"> b) hello
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) hello6
 </div><span class="collapseomatic " id="id6337a999f1db6"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1db6" class="collapseomatic_content "> Answer: c
 Explanation: Cannot concatenate str and int objects. </div>
 
@@ -63,9 +63,9 @@ Explanation: Cannot concatenate str and int objects. </div>
 <p>7. What will be the output of the following Python code?
 
 </p><div class="op1"> a) DCBA
-<div class="op2"> b) A, B, C, D
-<div class="op3"> c) D C B A
-<div class="op4"> d) D, C, B, A will be displayed on four lines
+</div><div class="op2"> b) A, B, C, D
+</div><div class="op3"> c) D C B A
+</div><div class="op4"> d) D, C, B, A will be displayed on four lines
 </div><span class="collapseomatic " id="id6337a999f1dc0"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1dc0" class="collapseomatic_content "> Answer: c
 Explanation: Execute in the shell.</div>
 
@@ -73,9 +73,9 @@ Explanation: Execute in the shell.</div>
 <p>8. What will be the output of the following Python statement?(python 3.xx)
 
 </p><div class="op1"> a) Welcome# 111#924.66
-<div class="op2"> b) Welcome#111#924.66
-<div class="op3"> c) Welcome#111#.66
-<div class="op4"> d) Welcome # 111#924.66
+</div><div class="op2"> b) Welcome#111#924.66
+</div><div class="op3"> c) Welcome#111#.66
+</div><div class="op4"> d) Welcome # 111#924.66
 </div><span class="collapseomatic " id="id6337a999f1dcb"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1dcb" class="collapseomatic_content "> Answer: d
 Explanation: Execute in the shell to verify.</div>
 
@@ -83,9 +83,9 @@ Explanation: Execute in the shell to verify.</div>
 
 <p>9.  What will be displayed by print(ord(‘b’) – ord(‘a’))?
 </p><div class="op1"> a) 0
-<div class="op2"> b) 1
-<div class="op3"> c) -1
-<div class="op4"> d) 2
+</div><div class="op2"> b) 1
+</div><div class="op3"> c) -1
+</div><div class="op4"> d) 2
 </div><span class="collapseomatic " id="id6337a999f1dd6"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1dd6" class="collapseomatic_content "> Answer: b
 Explanation: ASCII value of b is one more than a. Hence the output of this code is 98-97, which is equal to 1.</div>
 
@@ -93,8 +93,8 @@ Explanation: ASCII value of b is one more than a. Hence the output of this code 
 
 <p>10. Say s=&#8221;hello&#8221; what will be the return value of type(s)?
 </p><div class="op1"> a) int
-<div class="op2"> b) bool
-<div class="op3"> c) str
-<div class="op4"> d) String
+</div><div class="op2"> b) bool
+</div><div class="op3"> c) str
+</div><div class="op4"> d) String
 </div><span class="collapseomatic " id="id6337a999f1de0"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a999f1de0" class="collapseomatic_content "> Answer: c
 Explanation: str is used to represent strings in python.</div>
