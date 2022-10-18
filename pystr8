@@ -1,0 +1,98 @@
+<p>1. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello {name1} and {name2}
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) Hello and
+</div><span class="collapseomatic " id="id6337108cdd081"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd081" class="collapseomatic_content ">Answer: a
+Explanation: The arguments are accessed by their names.</div>
+ 
+
+<p>2. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and foo
+</div><div class="op2"> b) Hello ‘foo’ and foo
+</div><div class="op3"> c) Hello foo and ‘bin’
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd09d"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd09d" class="collapseomatic_content ">Answer: b
+Explanation: !r causes the characters &#8216; or &#8221; to be printed as well.</div>
+ 
+
+<p>3. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello (‘foo’, ‘bin’) and (‘foo’, ‘bin’)
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108cdd0ad"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0ad" class="collapseomatic_content ">Answer: c
+Explanation: IndexError, the tuple index is out of range.</div>
+
+
+<p>4. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello (‘foo’, ‘bin’) and (‘foo’, ‘bin’)
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108cdd0ba"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0ba" class="collapseomatic_content ">Answer: a
+Explanation: The elements of the tuple are accessed by their indices.</div>
+
+
+<p>5. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) The sum of 2 and 10 is 12
+</div><div class="op2"> b) Error
+</div><div class="op3"> c) The sum of 0 and 1 is 2
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108cdd0c5"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0c5" class="collapseomatic_content ">Answer: a
+Explanation: The arguments passed to the function format can be integers also.</div>
+
+
+<p>6. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) The sum of 2 and 10 is 12
+</div><div class="op2"> b) The sum of 10 and a is 14
+</div><div class="op3"> c) The sum of 10 and a is c
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd0d0"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0d0" class="collapseomatic_content ">Answer: b
+Explanation: 2 is converted to binary, 10 to hexadecimal and 12 to octal.</div>
+
+
+<p>7. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) 1,112,223,334
+</div><div class="op2"> b) 111,222,333,4
+</div><div class="op3"> c) 1112223334
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd0da"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0da" class="collapseomatic_content ">Answer: a
+Explanation: A comma is added after every third digit from the right.</div>
+
+
+<p>8. What will be the output of the following Python code snippet?</p>
+
+</p><div class="op1"> a) 1,112,223,334
+</div><div class="op2"> b) 111,222,333,4
+</div><div class="op3"> c) 1112223334
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd0e4"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0e4" class="collapseomatic_content ">Answer: d
+Explanation: An integer is expected.</div>
+
+
+
+<p>9. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) 1,112,223,334
+</div><div class="op2"> b) 111,222,333,4
+</div><div class="op3"> c) 1112223334
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd0ee"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0ee" class="collapseomatic_content ">Answer: d
+Explanation: $ is an invalid format code.</div>
+
+<p>10. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) 1,112,223,334
+</div><div class="op2"> b) 111,222,333,4
+</div><div class="op3"> c) 1112223334
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id6337108cdd0f8"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108cdd0f8" class="collapseomatic_content ">Answer: c
+Explanation: The number is printed as it is.</div>
