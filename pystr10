@@ -1,0 +1,93 @@
+<p>1. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1dc4"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1dc4" class="collapseomatic_content ">Answer: a
+Explanation: Even keywords are considered as valid identifiers.</div>
+ 
+
+<p>2. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1de9"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1de9" class="collapseomatic_content ">Answer: a
+Explanation: There are no uppercase letters.</div>
+ 
+
+<p>3. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1df9"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1df9" class="collapseomatic_content ">Answer: a
+Explanation: There are no uppercase letters.</div>
+
+<p>4. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e11"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e11" class="collapseomatic_content ">Answer: a
+Explanation: All the character are numeric.</div>
+
+<p>5. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e1b"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e1b" class="collapseomatic_content ">Answer: b
+Explanation: The character . is not a numeric character.</div>
+
+
+<p>6. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div></div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e25"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e25" class="collapseomatic_content ">Answer: a
+Explanation: All those characters are printable.</div>
+
+
+<p>7. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e2f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e2f" class="collapseomatic_content ">Answer: b
+Explanation: None.</div>
+
+<p>8. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e38"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e38" class="collapseomatic_content ">Answer: a
+Explanation: Tab Spaces are considered as spaces.</div>
+
+<p>9. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e41"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e41" class="collapseomatic_content ">Answer: b
+Explanation: The letter W is uppercased.</div>
+
+<p>10. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) Error
+</div><span class="collapseomatic " id="id63379749e1e57"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379749e1e57" class="collapseomatic_content ">Answer: a
+Explanation: It is in title form.</div>
