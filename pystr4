@@ -66,7 +66,7 @@ Explanation: Execute in shell to verify. </div>
 
 <p>7. What will be the output of the following Python code?
 
-<p></p><div class="op1"> a) True False
+</p><div class="op1"> a) True False
 </div><div class="op2"> b) True True
 </div><div class="op3"> c) False True
 </div><div class="op4"> d) False False
@@ -77,7 +77,7 @@ Explanation: Execute in the shell objects cannot have same id, however in the ca
 
 <p>8. What will be the output of the following Python code?
 
-<p></p><div class="op1"> a) Peter Pan
+</p><div class="op1"> a) Peter Pan
 </div><div class="op2"> b) John Pan
 </div><div class="op3"> c) Peter Smith
 </div><div class="op4"> d) John Smith
