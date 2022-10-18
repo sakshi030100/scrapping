@@ -1,0 +1,107 @@
+<p>1.  What is “Hello”.replace(“l”, “e”)?
+
+</p><div class="op1"> a) Heeeo
+</div><div class="op2"> b) Heelo
+</div><div class="op3"> c) Heleo
+</div><div class="op4"> d) None
+</div><span class="collapseomatic " id="id63379744acd28"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd28" class="collapseomatic_content "> Answer: a
+Explanation: Execute in shell to verify. </div>
+
+
+
+<p>2. To retrieve the character at index 3 from string s=”Hello” what command do we execute (multiple answers allowed).
+
+</p><div class="op1"> a) s[] 
+</div><div class="op2"> b) s.getitem(3)
+</div><div class="op3"> c) s.__getitem__(3)
+</div><div class="op4"> d) s.getItem(3)
+</div><span class="collapseomatic " id="id63379744acd47"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd47" class="collapseomatic_content "> Answer:  c
+Explanation: __getitem(..) can be used to get character at index specified as parameter. </div>
+
+
+
+<p>3. To return the length of string s what command do we execute?
+
+</p><div class="op1"> a) s.__len__()
+</div><div class="op2"> b) len(s)
+</div><div class="op3"> c) size(s)
+</div><div class="op4"> d) s.size()
+</div><span class="collapseomatic " id="id63379744acd56"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd56" class="collapseomatic_content "> Answer: a
+Explanation: Execute in shell to verify. </div>
+ 
+
+
+<p>4. If a class defines the __str__(self) method, for an object obj for the class, you can use which command to invoke the __str__ method.
+
+</p><div class="op1"> a) obj.__str__()
+</div><div class="op2"> b) str(obj)
+</div><div class="op3"> c) print obj
+</div><div class="op4"> d) all of the mentioned
+</div><span class="collapseomatic " id="id63379744acd73"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd73" class="collapseomatic_content "> Answer: d
+Explanation: Execute in shell to verify.</div>
+
+
+
+<p>5. To check whether string s1 contains another string s2, use ________
+
+</p><div class="op1"> a) s1.__contains__(s2)
+</div><div class="op2"> b) s2 in s1
+</div><div class="op3"> c) s1.contains(s2)
+</div><div class="op4"> d) si.in(s2)
+</div><span class="collapseomatic " id="id63379744acd80"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd80" class="collapseomatic_content "> Answer: a
+Explanation: s2 in s1 works in the same way as calling the special function __contains__ .</div>
+
+
+
+<p>6. Suppose i is 5 and j is 4, i + j is same as ________
+
+</p><div class="op1"> a) i.__add(j)
+</div><div class="op2"> b) i.__add__(j)
+</div><div class="op3"> c) i.__Add(j)
+</div><div class="op4"> d) i.__ADD(j)
+</div><span class="collapseomatic " id="id63379744acd8b"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd8b" class="collapseomatic_content "> Answer: b
+Explanation: Execute in shell to verify. </div>
+
+
+
+<p>7. What will be the output of the following Python code?
+
+<p></p><div class="op1"> a) True False
+</div><div class="op2"> b) True True
+</div><div class="op3"> c) False True
+</div><div class="op4"> d) False False
+</div><span class="collapseomatic " id="id63379744acd95"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd95" class="collapseomatic_content "> Answer: c
+Explanation: Execute in the shell objects cannot have same id, however in the case of strings its different.</div>
+
+
+
+<p>8. What will be the output of the following Python code?
+
+<p></p><div class="op1"> a) Peter Pan
+</div><div class="op2"> b) John Pan
+</div><div class="op3"> c) Peter Smith
+</div><div class="op4"> d) John Smith
+</div><span class="collapseomatic " id="id63379744acd9f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acd9f" class="collapseomatic_content "> Answer: b
+Explanation: Execute in the shell to verify.</div>
+
+
+
+<p>9. What function do you use to read a string?
+
+</p><div class="op1"> a) input(“Enter a string”)
+</div><div class="op2"> b) eval(input(“Enter a string”))
+</div><div class="op3"> c) enter(“Enter a string”)
+</div><div class="op4"> d) eval(enter(“Enter a string”))
+</div><span class="collapseomatic " id="id63379744acda9"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acda9" class="collapseomatic_content "> Answer: a
+Explanation: Execute in shell to verify.</div>
+
+
+
+<p>10. Suppose x is 345.3546, what is format(x, “10.3f”) (_ indicates space).
+
+</p><div class="op1"> a) __345.355
+</div><div class="op2"> b) ___345.355
+</div><div class="op3"> c) ____345.355
+</div><div class="op4"> d) _____345.354
+</div><span class="collapseomatic " id="id63379744acdb3"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63379744acdb3" class="collapseomatic_content "> Answer: b
+Explanation: Execute in the shell to verify.</div>
