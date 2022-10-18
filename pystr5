@@ -1,0 +1,94 @@
+<p>1. What will be the output of the following Python code?
+
+</p><div class="op1"> a) abc def
+</div><div class="op2"> b) ABC DEF
+</div><div class="op3"> c) Abc def
+</div><div class="op4"> d) Abc Def
+</div><span class="collapseomatic " id="id63371087e2f6b"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2f6b" class="collapseomatic_content ">Answer: c
+Explanation: The first letter of the string is converted to uppercase and the others are converted to lowercase.</div>
+ 
+
+<p>2. What will be the output of the following Python code?
+
+</p><div class="op1"> a) abc. def
+</div><div class="op2"> b) ABC. DEF
+</div><div class="op3"> c) Abc. def
+</div><div class="op4"> d) Abc. Def
+</div><span class="collapseomatic " id="id63371087e2f8a"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2f8a" class="collapseomatic_content ">Answer: c
+Explanation: The first letter of the string is converted to uppercase and the others are converted to lowercase.</div>
+ 
+
+<p>3. What will be the output of the following Python code?
+
+</p><div class="op1"> a) cd
+</div><div class="op2"> b) abcdef
+</div><div class="op3"> c) error
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id63371087e2f9a"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2f9a" class="collapseomatic_content ">Answer: c
+Explanation: The function center() takes at least one parameter.</div>
+
+
+<p>4. What will be the output of the following Python code?
+
+</p><div class="op1"> a) cd
+</div><div class="op2"> b) abcdef
+</div><div class="op3"> c) error
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id63371087e2fa7"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fa7" class="collapseomatic_content ">Answer: b
+Explanation: The entire string is printed when the argument passed to center() is less than the length of the string.</div>
+
+<p>5. What will be the output of the following Python code?
+
+</p><div class="op1"> a) * abcdef  *
+</div><div class="op2"> b) *  abcdef *
+</div><div class="op3"> c) *abcdef *
+</div><div class="op4"> d) * abcdef*
+</div><span class="collapseomatic " id="id63371087e2fb2"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fb2" class="collapseomatic_content ">Answer: b
+Explanation: Padding is done towards the left-hand-side first when the final string is of odd length. Extra spaces are present since we haven&#8217;t overridden the value of sep.</div>
+
+
+<p>6. What will be the output of the following Python code?
+
+</p><div class="op1"> a) * abcdef  *
+</div><div class="op2"> b) *  abcdef *
+</div><div class="op3"> c) *abcdef *
+</div><div class="op4"> d) * abcdef*
+</div><span class="collapseomatic " id="id63371087e2fbc"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fbc" class="collapseomatic_content ">Answer: d
+Explanation: Padding is done towards the left-hand-side first when the final string is of odd length.</div>
+
+<p>7. What will be the output of the following Python code?
+
+</p><div class="op1"> a) * abcde  *
+</div><div class="op2"> b) *  abcde *
+</div><div class="op3"> c) *abcde *
+</div><div class="op4"> d) * abcde*
+</div><span class="collapseomatic " id="id63371087e2fc6"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fc6" class="collapseomatic_content ">Answer: c
+Explanation: Padding is done towards the right-hand-side first when the final string is of even length.</div>
+
+<p>8. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 1abcdef
+</div><div class="op2"> b) abcdef1
+</div><div class="op3"> c)  abcdef
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087e2fcf"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fcf" class="collapseomatic_content ">Answer: d
+Explanation: TypeError, the fill character must be a character, not an int.</div>
+
+
+<p>9. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 1abcdef
+</div><div class="op2"> b) abcdef1
+</div><div class="op3"> c)  abcdef
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087e2fd9"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fd9" class="collapseomatic_content ">Answer: a
+Explanation: The character &#8216;1&#8217; is used for padding instead of a space.</div>
+
+
+<p>10. What will be the output of the following Python code?
+</p><div class="op1"> a) 12abcdef12
+</div><div class="op2"> b) abcdef1212
+</div><div class="op3"> c) 1212abcdef
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087e2fe3"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087e2fe3" class="collapseomatic_content ">Answer: d
+Explanation: The fill character must be exactly one character long.</div>
