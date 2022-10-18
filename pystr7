@@ -1,0 +1,99 @@
+<p>1. What will be the output of the following Python code?
+
+</p><div class="op1"> a) ab  cd  ef
+</div><div class="op2"> b) abcdef
+</div><div class="op3"> c) ab\tcd\tef
+</div><div class="op4"> d) b cd ef
+</div><span class="collapseomatic " id="id6337108c7a6e0"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a6e0" class="collapseomatic_content ">Answer: a
+Explanation: Each \t is converted to 8 blank spaces by default.</div>
+
+
+<p>2. What will be the output of the following Python code?
+
+</p><div class="op1"> a)  ab   cd   ef
+</div><div class="op2"> b) abcdef
+</div><div class="op3"> c) ab\tcd\tef
+</div><div class="op4"> d) ab cd ef
+</div><span class="collapseomatic " id="id6337108c7a719"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a719" class="collapseomatic_content ">Answer: d
+Explanation: Each \t is converted to 4 blank spaces.</div>
+ 
+
+<p>3. What will be the output of the following Python code?
+
+
+</p><div class="op1"> a) ab+cd+ef
+</div><div class="op2"> b) ab++++++++cd++++++++ef
+</div><div class="op3"> c) ab cd ef
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id6337108c7a72a"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a72a" class="collapseomatic_content ">Answer: d
+Explanation: TypeError, an integer should be passed as an argument.</div>
+
+
+
+<p>4. What will be the output of the following Python code?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108c7a737"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a737" class="collapseomatic_content ">Answer: b
+Explanation: The function find() returns the position of the sunstring in the given string whereas the in keyword returns a value of Boolean type.</div>
+
+<p>5. What will be the output of the following Python code?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) 2
+</div><div class="op3"> c) 3
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108c7a743"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a743" class="collapseomatic_content ">Answer: b
+Explanation: The first position in the given string at which the substring can be found is returned.</div>
+
+
+<p>6. What will be the output of the following Python code?
+</p><div class="op1"> a) 4
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) True
+</div><span class="collapseomatic " id="id6337108c7a74e"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a74e" class="collapseomatic_content ">Answer: b
+Explanation: The first position in the given string at which the substring can be found is returned.</div>
+
+
+<p>7. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello {0} and {1} foo bin
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) Hello 0 and 1
+</div><span class="collapseomatic " id="id6337108c7a758"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a758" class="collapseomatic_content ">Answer: a
+Explanation: The numbers 0 and 1 represent the position at which the strings are present.</div>
+
+
+<p>8. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello bin and foo
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id6337108c7a762"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a762" class="collapseomatic_content ">Answer: a
+Explanation: The numbers 0 and 1 represent the position at which the strings are present.</div>
+
+
+
+<p>9. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello {} and {}
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) Hello and
+</div><span class="collapseomatic " id="id6337108c7a76d"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a76d" class="collapseomatic_content ">Answer: a
+Explanation: It is the same as Hello {0} and {1}.</div>
+
+
+<p>10. What will be the output of the following Python code?
+
+</p><div class="op1"> a) Hello foo and bin
+</div><div class="op2"> b) Hello {name1} and {name2}
+</div><div class="op3"> c) Error
+</div><div class="op4"> d) Hello and
+</div><span class="collapseomatic " id="id6337108c7a778"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337108c7a778" class="collapseomatic_content ">Answer: c
+Explanation: The arguments passed to the function format aren&#8217;t keyword arguments.</div>
