@@ -1,0 +1,294 @@
+<p>1. What will be the output of the following Python code?
+
+</p><div class="op1"> a) True
+</div><div class="op2"> b) False
+</div><div class="op3"> c) None
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id6337a3330efe2"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a3330efe2" class="collapseomatic_content ">Answer: a
+Explanation: It is in the form of a title.</div>
+ 
+
+<p>2. What will be the output of the following Python code?
+
+</p><div class="op1"> a) n
+</div><div class="op2"> b) 1rn@
+</div><div class="op3"> c) rn
+</div><div class="op4"> d) r
+</div><span class="collapseomatic " id="id6337a3330f006"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a3330f006" class="collapseomatic_content ">Answer: b
+Explanation: Uppercase letters are converted to lowercase. The other characters are left unchanged.</div>
+ 
+
+<p>3. What will be the output of the following Python code?
+
+</p><div class="op1"> a) \tfoo
+</div><div class="op2"> b) foo
+</div><div class="op3"> c)    foo
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id6337a3330f016"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a3330f016" class="collapseomatic_content ">Answer: b
+Explanation: All leading whitespace is removed.</div>
+
+
+<p>4. What will be the output of the following Python code?
+
+</p><div class="op1"> a) error
+</div><div class="op2"> b) zxxyxyy
+</div><div class="op3"> c) z
+</div><div class="op4"> d) zxxy
+</div><span class="collapseomatic " id="id6337a3330f023"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a3330f023" class="collapseomatic_content ">Answer: b
+Explanation: The leading characters containing xyy are removed.</div>
+
+
+<p>5. What will be the output of the following Python code?
+
+</p><div class="op1"> a) zxxy
+</div><div class="op2"> b) xyxxyyzxxy
+</div><div class="op3"> c) xyxzxxy
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id6337a3330f02f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a3330f02f" class="collapseomatic_content ">Answer: a
+Explanation: All combinations of the characters passed as an argument are removed from the left hand side.</div>
+
+<p>6. What will be the output of the following Python code?
+
+</p><div class="op1"> a) {97: 49, 98: 50, 99: 51}
+</div><div class="op2"> b) {65: 49, 66: 50, 67: 51}
+</div><div class="op3"> c) 321
+</div><div class="op4"> d) 123
+</div><span class="collapseomatic " id="id6337a3330f03a"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a3330f03a" class="collapseomatic_content ">Answer: a
+Explanation: A translation table is returned by maketrans.</div>
+
+
+<p>7. What will be the output of the following Python code?
+
+</p><div class="op1"> a) {97: 49, 98: 50, 99: 51}
+</div><div class="op2"> b) {65: 49, 66: 50, 67: 51}
+</div><div class="op3"> c) {97: 49}
+</div><div class="op4"> d) 1
+</div><span class="collapseomatic " id="id6337a3330f045"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a3330f045" class="collapseomatic_content ">Answer: b
+Explanation: maketrans() is a static method so it&#8217;s behaviour does not depend on the object from which it is being called.</div>
+
+
+<p>8. What will be the output of the following Python code?
+
+</p><div class="op1"> a) (‘ab’, ‘ef’)
+</div><div class="op2"> b) (‘abef’)
+</div><div class="op3"> c) (‘ab’, ‘cd’, ‘ef’)
+</div><div class="op4"> d) 2
+</div><span class="collapseomatic " id="id6337a3330f052"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a3330f052" class="collapseomatic_content ">Answer: c
+Explanation: The string is split into three parts by partition.</div>
+
+<p>9. What will be the output of the following Python code?
+
+</p><div class="op1"> a) (‘ab’, ‘cd’, ‘ef’, ‘cd’, ‘gh’)
+</div><div class="op2"> b) (‘ab’, ‘cd’, ‘efcdgh’)
+</div><div class="op3"> c) (‘abcdef’, ‘cd’, ‘gh’)
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id6337a3330f05c"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a3330f05c" class="collapseomatic_content ">Answer: b
+Explanation: The string is partitioned at the point where the separator first appears.</div>
+
+
+<p>10. What will be the output of the following Python code?
+
+</p><div class="op1"> a) (‘ab’, ‘cd’, ”)
+</div><div class="op2"> b) (‘ab’, ‘cd’)
+</div><div class="op3"> c) error
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id6337a3330f067"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a3330f067" class="collapseomatic_content ">Answer: a
+Explanation: The last item is a null string.</div>
+
+
+
+<p>11. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) (‘cd’)
+</div><div class="op2"> b) (”)
+</div><div class="op3"> c) (‘cd’, ”, ”)
+</div><div class="op4"> d) (”, ‘cd’, ”)
+</div><span class="collapseomatic " id="id6337974a521e9"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337974a521e9" class="collapseomatic_content ">Answer: d
+Explanation: The entire string has been passed as the separator hence the first and the last item of the tuple returned are null strings.</div>
+ 
+
+<p>12. What will be the output of the following Python code snippet?</p>
+
+</p><div class="op1"> a) (‘abef’)
+</div><div class="op2"> b) (‘abef’) 
+</div><div class="op3"> c) (‘abef’, ”, ”)
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id6337974a52208"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337974a52208" class="collapseomatic_content ">Answer: c
+Explanation: The separator is not present in the string hence the second and the third elements of the tuple are null strings.</div>
+ 
+
+<p>13. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) ab12ef12
+</div><div class="op2"> b) abcdef12
+</div><div class="op3"> c) ab12efcd
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id6337974a52217"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337974a52217" class="collapseomatic_content ">Answer: a
+Explanation: All occurrences of the first substring are replaced by the second substring.</div>
+
+
+<p>14. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) abef
+</div><div class="op2"> b) 12
+</div><div class="op3"> c) error
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id6337974a52222"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337974a52222" class="collapseomatic_content ">Answer: a
+Explanation: The first substring is not present in the given string and hence nothing is replaced.</div>
+
+
+<p>15. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) ab1ef2
+</div><div class="op2"> b) abcefd
+</div><div class="op3"> c) ab1efd
+</div><div class="op4"> d) ab12ed2
+</div><span class="collapseomatic " id="id6337974a5222c"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337974a5222c" class="collapseomatic_content ">Answer: b
+Explanation: The first substring is not present in the given string and hence nothing is replaced.</div>
+
+<p>16. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) xyyxyyxyxyxxy
+</div><div class="op2"> b) 12y12y1212x12
+</div><div class="op3"> c) 12yxyyxyxyxxy
+</div><div class="op4"> d) xyyxyyxyxyx12
+</div><span class="collapseomatic " id="id6337974a52236"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337974a52236" class="collapseomatic_content ">Answer: a
+Explanation: The first 0 occurrences of the given substring are replaced.</div>
+
+
+<p>17. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) xyyxyyxyxyxxy
+</div><div class="op2"> b) 12y12y1212x12
+</div><div class="op3"> c) none of the mentioned
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id6337974a5224b"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337974a5224b" class="collapseomatic_content ">Answer: b
+Explanation: The first 100 occurrences of the given substring are replaced.</div>
+
+
+<p>18. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) [‘ab’, ‘ef’, ‘gh’]
+</div><div class="op2"> b) [‘ab’, ‘ef’, ‘gh’, ”] 
+</div><div class="op3"> c) (‘ab’, ‘ef’, ‘gh’)
+</div><div class="op4"> d) (‘ab’, ‘ef’, ‘gh’, ”)
+</div><span class="collapseomatic " id="id6337974a52255"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337974a52255" class="collapseomatic_content ">Answer: b
+Explanation: The given string is split and a list of substrings is returned.</div>
+
+
+<p>19. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) [‘abcdefcdghcd’] 
+</div><div class="op2"> b) ‘abcdefcdghcd’
+</div><div class="op3"> c) error
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id6337974a5225e"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337974a5225e" class="collapseomatic_content ">Answer: a
+Explanation: The given string is split at 0 occurances of the specified substring.</div>
+
+
+<p>20. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) [‘ab’, ‘ef’, ‘gh’]
+</div><div class="op2"> b) [‘ab’, ‘ef’, ‘gh’, ”]
+</div><div class="op3"> c) (‘ab’, ‘ef’, ‘gh’)
+</div><div class="op4"> d) (‘ab’, ‘ef’, ‘gh’, ”) 
+</div><span class="collapseomatic " id="id6337974a52268"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337974a52268" class="collapseomatic_content ">Answer: b
+Explanation: Calling the function with a negative value for maxsplit is the same as calling it without any maxsplit specified. The string will be split into as many substring s as possible.</div>
+
+
+<p>21. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) [‘ab’, ‘ef’, ‘ghcd’] 
+</div><div class="op2"> b) [‘ab’, ‘efcdghcd’] 
+</div><div class="op3"> c) [‘abcdef’, ‘ghcd’] 
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id633710911c1fd"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710911c1fd" class="collapseomatic_content ">Answer: a
+Explanation: The string is split into a maximum of maxsplit+1 substrings.</div>
+ 
+
+<p>22. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) [‘ab’, ‘cd’, ‘ef’]
+</div><div class="op2"> b) [‘ab\n’, ‘cd\n’, ‘ef\n’] 
+</div><div class="op3"> c) [‘ab\n’, ‘cd\n’, ‘ef’] 
+</div><div class="op4"> d) [‘ab’, ‘cd’, ‘ef\n’]
+ 
+</div><span class="collapseomatic " id="id633710911c233"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710911c233" class="collapseomatic_content ">Answer: a
+Explanation: It is similar to calling split(&#8216;\n&#8217;).</div>
+ 
+
+<p>23. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) AB!@
+</div><div class="op2"> b) ab12
+</div><div class="op3"> c) aB!2
+</div><div class="op4"> d) aB1@
+</div><span class="collapseomatic " id="id633710911c244"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710911c244" class="collapseomatic_content ">Answer: c
+Explanation: Lowercase letters are converted to uppercase and vice-versa.</div>
+
+
+<p>24. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) Ab cd ef
+</div><div class="op2"> b) Ab cd eF
+</div><div class="op3"> c) Ab Cd Ef
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id633710911c251"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710911c251" class="collapseomatic_content ">Answer: c
+Explanation: The first letter of every word is capitalized.</div>
+
+
+<p>25. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) Ab cd-ef
+</div><div class="op2"> b) Ab Cd-ef
+</div><div class="op3"> c) Ab Cd-Ef
+</div><div class="op4"> d) None of the mentioned
+</div><span class="collapseomatic " id="id633710911c25c"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710911c25c" class="collapseomatic_content ">Answer: c
+Explanation: The first letter of every word is capitalized. Special symbols terminate a word.</div>
+
+<p>26. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) bcde
+</div><div class="op2"> b) abcd
+</div><div class="op3"> c) error
+</div><div class="op4"> d) bcdd
+</div><span class="collapseomatic " id="id633710911c267"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710911c267" class="collapseomatic_content ">Answer: d
+Explanation: The output is bcdd since no translation is provided for d.</div>
+
+
+<p>27. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) bcde
+</div><div class="op2"> b) abcd
+</div><div class="op3"> c) error
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id633710911c270"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710911c270" class="collapseomatic_content ">Answer: d
+Explanation: The output is bcdd since no translation is provided for d.</div>
+
+
+<p>28. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) abcd
+</div><div class="op2"> b) 1234
+</div><div class="op3"> c) error
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id633710911c27a"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710911c27a" class="collapseomatic_content ">Answer: a
+Explanation: The function translate expects a dictionary of integers. Use maketrans() instead of doing the above.</div>
+
+
+<p>29. What will be the output of the following Python code snippet?
+</p><div class="op1"> a) 000ab
+</div><div class="op2"> b) 00ab0
+</div><div class="op3"> c) 0ab00
+</div><div class="op4"> d) ab000
+</div><span class="collapseomatic " id="id633710911c284"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710911c284" class="collapseomatic_content ">Answer: a
+Explanation: The string is padded with zeros on the left hand side. It is useful for formatting numbers.</div>
+
+<p>30. What will be the output of the following Python code snippet?
+
+</p><div class="op1"> a) 00+99
+</div><div class="op2"> b) 00099
+</div><div class="op3"> c) +0099
+</div><div class="op4"> d) +++99
+</div><span class="collapseomatic " id="id633710911c28e"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id633710911c28e" class="collapseomatic_content ">Answer: c
+Explanation: zeros are filled in between the first sign and the rest of the string.</div>
