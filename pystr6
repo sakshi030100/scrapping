@@ -1,0 +1,94 @@
+<p>1. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) error
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id63371087c4f71"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4f71" class="collapseomatic_content ">Answer: a
+Explanation: Counts the number of times the substring &#8216;yy&#8217; is present in the given string.</div>
+ 
+<p>2. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) 1
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id63371087c4f94"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4f94" class="collapseomatic_content ">Answer: a
+Explanation: Counts the number of times the substring &#8216;yy&#8217; is present in the given string, starting from position 1.</div>
+
+
+
+<p>3. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) 1
+</div><div class="op4"> d) none of the mentioned
+</div><span class="collapseomatic " id="id63371087c4fa5"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fa5" class="collapseomatic_content ">Answer: c
+Explanation: Counts the number of times the substring &#8216;yy&#8217; is present in the given string, starting from position 2.</div>
+
+<p>4. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) 1
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087c4fb3"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fb3" class="collapseomatic_content ">Answer: a
+Explanation: An error will not occur if the end value is greater than the length of the string itself.</div>
+
+
+<p>5. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) 1
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087c4fbe"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fbe" class="collapseomatic_content ">Answer: b
+Explanation: Counts the number of times the substring &#8216;xyy&#8217; is present in the given string, starting from position 2 and ending at position 11.</div>
+
+<p>6. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 2
+</div><div class="op2"> b) 0
+</div><div class="op3"> c) 1
+</div><div class="op4"> d) error
+</div><span class="collapseomatic " id="id63371087c4fca"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fca" class="collapseomatic_content ">Answer: b
+Explanation: Counts the number of times the substring &#8216;xyy&#8217; is present in the given string, starting from position 2 and ending at position 11.</div>
+
+<p>7. What will be the output of the following Python code?
+
+</p><div class="op1"> a) abc
+</div><div class="op2"> b) ‘abc’
+</div><div class="op3"> c) b’abc’
+</div><div class="op4"> d) h’abc’ 
+</div><span class="collapseomatic " id="id63371087c4fd4"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fd4" class="collapseomatic_content ">Answer: c
+Explanation: A bytes object is returned by encode.</div>
+
+
+<p>8. What is the default value of encoding in encode()?
+</p><div class="op1"> a) ascii
+</div><div class="op2"> b) qwerty
+</div><div class="op3"> c) utf-8
+</div><div class="op4"> d) utf-16
+</div><span class="collapseomatic " id="id63371087c4fdf"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fdf" class="collapseomatic_content ">Answer: c
+Explanation: The default value of encoding is utf-8.</div>
+
+
+<p>9. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 1
+</div><div class="op2"> b) True
+</div><div class="op3"> c) 3
+</div><div class="op4"> d) 2
+</div><span class="collapseomatic " id="id63371087c4fea"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4fea" class="collapseomatic_content ">Answer: b
+Explanation: The function returns True if the given string ends with the specified substring.</div>
+
+
+<p>10. What will be the output of the following Python code?
+
+</p><div class="op1"> a) 0
+</div><div class="op2"> b) 1
+</div><div class="op3"> c) True
+</div><div class="op4"> d) False
+</div><span class="collapseomatic " id="id63371087c4ff5"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id63371087c4ff5" class="collapseomatic_content ">Answer: d
+Explanation: The function returns False if the given string does not end with the specified substring.</div>
