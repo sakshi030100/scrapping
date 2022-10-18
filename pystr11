@@ -47,6 +47,7 @@ Explanation: The leading characters containing xyy are removed.</div>
 </div><span class="collapseomatic " id="id6337a3330f02f"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id6337a3330f02f" class="collapseomatic_content ">Answer: a
 Explanation: All combinations of the characters passed as an argument are removed from the left hand side.</div>
 
+
 <p>6. What will be the output of the following Python code?
 
 </p><div class="op1"> a) {97: 49, 98: 50, 99: 51}
